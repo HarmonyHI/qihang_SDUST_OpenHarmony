@@ -1,0 +1,6 @@
+    //1 马达
+    //2 LED
+    //3 temp thr
+    //4 humi thr
+    //5 auto strg
+    //6 mode
